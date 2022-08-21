@@ -1,4 +1,3 @@
 
-# Moralis NextJS Auth Demo App
+# Auth Dharma App
 
-Documentation available at https://docs.moralis.io/docs/nextjs-web3-auth
